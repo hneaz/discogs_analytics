@@ -1,4 +1,4 @@
-![discogs](./img/color.jpg)
+![discogs](./images/color.jpg)
 
 # My Discogs Collection - Analytics
 
