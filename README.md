@@ -60,4 +60,4 @@ Feel free to use my notebook and explore my analysis!
 
 **Hasib Neaz** - *Initial work* - [hneaz](https://github.com/hneaz)
 
-![discogs](./img/col.jpg)
+![col](./images/col.jpg)
