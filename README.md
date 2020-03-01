@@ -12,7 +12,8 @@ released.
 2. [Installation](#installation)
 3. [File Descriptions](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Resources](#resources)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -52,7 +53,39 @@ python3 -m ipykernel install --user --name discogs --display-name "discogs"
 
 ## Results<a name="results"></a>
 
+## Resources<a name="resources"></a>
+
+[Building structured multi-plot grids](https://seaborn.pydata.org/tutorial/axis_grids.html)
+
+[Visualizing linear relationships](https://seaborn.pydata.org/tutorial/regression.html)
+
+[Visualizing the distribution of a dataset](https://seaborn.pydata.org/tutorial/distributions.html#plotting-bivariate-distributions)
+
+[Plotting with categorical data](http://seaborn.pydata.org/tutorial/categorical.html)
+
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Inspiration on EDA
+
+[Exploratory Data Analysis: Iris Flower Dataset](https://medium.com/analytics-vidhya/exploratory-data-analysis-iris-flower-dataset-a21c368a1f4)
+
+[A Starter Pack to Exploratory Data Analysis with Python, pandas, seaborn, and scikit-learn](https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf)
+
+
+Future links to explore
+
+[discogs-xml2db](https://github.com/philipmat/discogs-xml2db)
+
+[autoEDA-resources](https://github.com/mstaniak/autoEDA-resources)
+
+[Discogs Developer](https://www.discogs.com/developers/#page:home,header:home-quickstart)
+
+[Download Discogs Data](https://data.discogs.com/)
+
+[Discogs Database Search](https://www.discogs.com/developers/#page:database,header:database-search)
+
+[Discogs Oauth](https://github.com/jesseward/discogs-oauth-example)
 
 Feel free to use my notebook and explore my analysis!
 
