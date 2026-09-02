@@ -1,0 +1,38 @@
+{
+  "README.md": {
+    "mtime": 1694465697.5989742,
+    "seen": 1788242084.667928,
+    "ast_hash": "1cb98aa3d7073cb56be39bab09b13624",
+    "semantic_hash": ""
+  },
+  "notes.md": {
+    "mtime": 1788201146.6677485,
+    "seen": 1788242084.6679301,
+    "ast_hash": "6e112295fdbad3665df48e5f48c5600b",
+    "semantic_hash": ""
+  },
+  "output/discogs_analysis.html": {
+    "mtime": 1694465697.6449401,
+    "seen": 1788242084.6679308,
+    "ast_hash": "81903bc107243351cbdfbf42f9d4aa9c",
+    "semantic_hash": ""
+  },
+  "images/col.jpg": {
+    "mtime": 1694465697.6068408,
+    "seen": 1788242084.6679318,
+    "ast_hash": "1904c1aaa6b2a5e09db8e9b019d63c5c",
+    "semantic_hash": ""
+  },
+  "images/color.jpg": {
+    "mtime": 1694465697.6114645,
+    "seen": 1788242084.667933,
+    "ast_hash": "8c7b6ea412db888524336d6e02438ab4",
+    "semantic_hash": ""
+  },
+  "images/panopticon.jpg": {
+    "mtime": 1694465697.6164196,
+    "seen": 1788242084.667934,
+    "ast_hash": "1a19bf0c5a3c48dd76f8af430139379b",
+    "semantic_hash": ""
+  }
+}

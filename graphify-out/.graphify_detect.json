@@ -1,0 +1,43 @@
+{
+  "files": {
+    "code": [],
+    "document": [
+      "/Users/A4Q6026/Documents/discogs_analytics/README.md",
+      "/Users/A4Q6026/Documents/discogs_analytics/output/discogs_analysis.html"
+    ],
+    "paper": [],
+    "image": [
+      "/Users/A4Q6026/Documents/discogs_analytics/images/col.jpg",
+      "/Users/A4Q6026/Documents/discogs_analytics/images/color.jpg",
+      "/Users/A4Q6026/Documents/discogs_analytics/images/panopticon.jpg"
+    ],
+    "video": []
+  },
+  "total_files": 5,
+  "total_words": 372219,
+  "needs_graph": true,
+  "warning": null,
+  "skipped_sensitive": [
+    "/Users/A4Q6026/Documents/discogs_analytics/data/discogs_data.xlsx [office conversion failed - pip install graphifyy[office]]",
+    "/Users/A4Q6026/Documents/discogs_analytics/data/discogs_raw.xlsx [office conversion failed - pip install graphifyy[office]]",
+    "/Users/A4Q6026/Documents/discogs_analytics/data/djent_illini-collection-20200223-1647.xlsx [office conversion failed - pip install graphifyy[office]]"
+  ],
+  "unclassified": [
+    "/Users/A4Q6026/Documents/discogs_analytics/data/.DS_Store",
+    "/Users/A4Q6026/Documents/discogs_analytics/data/discogs_data.csv",
+    "/Users/A4Q6026/Documents/discogs_analytics/data/djent_illini-collection-20200223-1647.csv",
+    "/Users/A4Q6026/Documents/discogs_analytics/data/djent_illini-inventory-20200223-1659.csv",
+    "/Users/A4Q6026/Documents/discogs_analytics/data/music_collection.zip",
+    "/Users/A4Q6026/Documents/discogs_analytics/output/discogs_clean_data.csv",
+    "/Users/A4Q6026/Documents/discogs_analytics/src/.ipynb_checkpoints/discogs_analysis-checkpoint.ipynb",
+    "/Users/A4Q6026/Documents/discogs_analytics/src/discogs_analysis.ipynb"
+  ],
+  "walk_errors": [],
+  "ignored": [],
+  "pruned_noise_dirs": [
+    "/Users/A4Q6026/Documents/discogs_analytics/.git/",
+    "/Users/A4Q6026/Documents/discogs_analytics/graphify-out/"
+  ],
+  "graphifyignore_patterns": 0,
+  "scan_root": "/Users/A4Q6026/Documents/discogs_analytics"
+}

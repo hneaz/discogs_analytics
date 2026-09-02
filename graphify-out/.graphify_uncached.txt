@@ -1,0 +1,5 @@
+/Users/A4Q6026/Documents/discogs_analytics/README.md
+/Users/A4Q6026/Documents/discogs_analytics/output/discogs_analysis.html
+/Users/A4Q6026/Documents/discogs_analytics/images/col.jpg
+/Users/A4Q6026/Documents/discogs_analytics/images/color.jpg
+/Users/A4Q6026/Documents/discogs_analytics/images/panopticon.jpg
